@@ -1,0 +1,27 @@
+body{
+    background-color: #24272e;
+    color: white;
+}
+.container{
+    padding-left: 50px;
+}
+.about,.get{
+    padding: 15px 60px;
+    border: 1px transparent;
+    font-size: 15px;
+    margin-top: 40px;
+}
+.get{
+    margin-left: 20px;
+}
+.about{
+    background-color: rgb(230, 83, 83);
+    color: white;
+}
+.head{
+    padding-bottom: 5px;
+    font-size: 40px;
+}
+.text{
+    font-size: 20px;
+}
